@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "me.kasim1011" "\0"
-            VALUE "FileDescription", "hisabnama_flutter" "\0"
+            VALUE "FileDescription", "Hisabnama" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "hisabnama_flutter" "\0"
+            VALUE "InternalName", "Hisabnama" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 me.kasim1011. All rights reserved." "\0"
-            VALUE "OriginalFilename", "hisabnama_flutter.exe" "\0"
-            VALUE "ProductName", "hisabnama_flutter" "\0"
+            VALUE "OriginalFilename", "Hisabnama.exe" "\0"
+            VALUE "ProductName", "Hisabnama" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
