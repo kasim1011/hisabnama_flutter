@@ -1,6 +1,10 @@
 # .github/workflows/build.yml
-name: Hisabnama Build Windows Release
-on: [ push, pull_request ]
+name: Build Windows Release
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 jobs:
   build:
     runs-on: windows-latest
