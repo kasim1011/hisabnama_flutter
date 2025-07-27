@@ -20,7 +20,7 @@ A simple, offline desktop accounting application for managing personal or small 
 
 ### Installation Steps
 
-1. Download the latest release from [Releases page](link-to-releases)
+1. Download the latest release from [Releases page](https://github.com/kasim1011/hisabnama_flutter/releases/)
 2. Extract the ZIP file to your preferred location
 3. Double-click `hisabnama.exe` to start the application
 
@@ -30,7 +30,7 @@ Let's set up your first accounting records with sample transactions!
 
 ### Step 1: Create Your First Accounts
 
-When you first open Hisabnama, you'll see the Accounts screen. Let's create some basic accounts:
+When you first open **Hisabnama**, you'll see the Accounts screen. Let's create some basic accounts:
 
 1. Click **"New Account"**
 2. Create these accounts one by one:
@@ -231,8 +231,8 @@ thanks to the Flutter and Dart communities for their excellent documentation and
 For issues or questions:
 
 1. Check this README first
-2. Visit our [GitHub Issues](link-to-issues) page
-3. Contact support: [your-email@example.com]
+2. Visit our [GitHub Issues](https://github.com/kasim1011/hisabnama_flutter/issues) page
+3. Contact support: [kasim-rangwala@yandex.com]
 
 ## 📄 License
 
