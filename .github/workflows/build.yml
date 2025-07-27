@@ -1,0 +1,13 @@
+# .github/workflows/build.yml
+name: Hisabnama Build Windows Release
+on: [ push, pull_request ]
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.32.1'
+      - run: flutter pub get
+      - run: flutter build windows
